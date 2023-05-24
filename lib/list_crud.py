@@ -41,5 +41,5 @@ def retrieve_element_from_index(l, index):
     return l[index]
 
 def retrieve_last_element_from_list(l):
-    last = len(l)-1
-    return l[last]
+    # last = len(l)-1
+    return l[-1]
